@@ -48,4 +48,4 @@ python [document name]
 #Add thing where you can enter emperical data and it returns yes or no and why
 #Add the video 
 
-[Click here to view the video](hyperparam_obsession.mov)
+![Console Output when training kNN (video)](https://github.com/dataofjlee/security-of-payment-dataset/blob/main/training_output.gif)
