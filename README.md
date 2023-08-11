@@ -44,6 +44,8 @@ python [document name]
     * re
 
 
-# Add table
-# Add thing where you can enter emperical data and it returns yes or no and why
-# Add the video 
+#Add table
+#Add thing where you can enter emperical data and it returns yes or no and why
+#Add the video 
+
+[Click here to view the video](hyperparam_obsession.mov)
