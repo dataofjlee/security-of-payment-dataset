@@ -42,3 +42,8 @@ python [document name]
     * matplotlib
     * seaborn
     * re
+
+
+# Add table
+# Add thing where you can enter emperical data and it returns yes or no and why
+# Add the video 
