@@ -5,6 +5,12 @@
 ## Introduction of Intended Use for Code and CSV Data Files 📊
 This project explores and analyzes the Building and Construction Industry Security of Payment (SOP) adjudication data to understand and predict dispute outcomes and adjudication amounts. The code and data files serve the following purposes:
 
+#### Some Data Visualisations
+<img src="https://github.com/jl33-ai/security-of-payment-dataset/blob/main/Data%20Visualisations/NormalDistributionClaimedAmount.png" width="30%">
+<img src="https://github.com/jl33-ai/security-of-payment-dataset/blob/main/Data%20Visualisations/corr_matrix_all.png" width="30%">
+<img src="https://github.com/jl33-ai/security-of-payment-dataset/blob/main/Data%20Visualisations/confusion_matrix_knn.png" width="30%">
+
+
 * **Preprocessing and Wrangling**: Data from `adjudication.csv`, `australian_postcodes.csv`, and `post_code_data.csv` is cleaned and transformed for analysis.
 * **K-Nearest Neighbors (KNN) Prediction**: Utilizes KNN to predict determination status of a claim using the mentioned datasets.
 * **Linear Regression Analysis**: Applies linear regression to forecast the adjudication amount based on the claimed amount in `adjudication.csv`.
@@ -48,4 +54,4 @@ python [document name]
 #Add thing where you can enter emperical data and it returns yes or no and why
 #Add the video 
 
-![Console Output when training kNN (video)](https://github.com/dataofjlee/security-of-payment-dataset/blob/main/training_output.gif)
+![Console Output when training kNN (video)]([https://github.com/dataofjlee/security-of-payment-dataset/blob/main/training_output.gif](https://github.com/jl33-ai/security-of-payment-dataset/blob/main/Data%20Visualisations/training_output.gif)https://github.com/jl33-ai/security-of-payment-dataset/blob/main/Data%20Visualisations/training_output.gif)
