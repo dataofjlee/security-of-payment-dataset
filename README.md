@@ -54,4 +54,4 @@ python [document name]
 #Add thing where you can enter emperical data and it returns yes or no and why
 #Add the video 
 
-![Console Output when training kNN (video)]([https://github.com/dataofjlee/security-of-payment-dataset/blob/main/training_output.gif](https://github.com/jl33-ai/security-of-payment-dataset/blob/main/Data%20Visualisations/training_output.gif)https://github.com/jl33-ai/security-of-payment-dataset/blob/main/Data%20Visualisations/training_output.gif)
+![Console Output when training kNN (video)](https://github.com/jl33-ai/security-of-payment-dataset/blob/main/Data%20Visualisations/training_output.gif)
